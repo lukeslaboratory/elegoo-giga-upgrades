@@ -1,6 +1,6 @@
 Welcome!
 
-Here lies all of the modifications on the elegoo giga that took it to the elegoo tera!
+Here lies all of the modifications on the Elegoo Orangestorm Giga that leveled it up to the Bluestorm Tera!
 
 I've provided the models neccessary for your own modifications in case you have a better plan or want to build it yourself!
 
