@@ -19,3 +19,5 @@ IF you don't feel like getting your own flasher, [we offer it as a convenient se
 3) Update the bed to use solid standoffs instead of the myriad of springs- This is viable because of the beacon allowing for excellent compensation. (Purchase aluminum ones here)[https://lukeslabonline.com/products/elegoo-giga-standoffs-aluminum]
 4) Add a camera to the upper corner - the (Luke's Lab camera)[https://lukeslabonline.com/products/usb-camera-1080p] has IR LEDS+Mechanical IR filter for exellent vision without having to keep the lights on!
 5) Add a single-peice steel sheet to the bed - this is still TBD as it works perfectly, it requires adhesive for every print and is fun to ship. I can offer it for sale, but am currently working on a place stateside to coat them in PEI.
+
+If you find cool mods that you'd like added, reach out and tell me! I'm looking to have everyone have the best possible experience with the Giga!
