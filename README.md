@@ -9,7 +9,7 @@ I've provided the models neccessary for your own modifications in case you have 
 Otherwise - You can purchase all of these modifications at lukeslabonline for a simpler experience.
 If neccessary - I can also offer service and install - [contact me using the contact page on my shop!](https://lukeslabonline.com/policies/contact-information)
 
-A quick sumamary of the mods:
+A quick summary of the mods:
 1) I replaced the controller board with a BTT Kraken + Pi4 - This is entirely unneccessary - with the advent of [OpenGiga 
 ](https://github.com/OpenNeptune3D/OpenOrangeStorm) You will be able to re-flash your existing controller with open, accessable firmware that you can then replace with dangerklipper and teach how to beacon in no time!
 IF you don't feel like getting your own flasher, [we offer it as a convenient service.](https://lukeslabonline.com/products/elegoo-giga-emmc-flashing-service)
